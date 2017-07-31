@@ -1,6 +1,6 @@
 {
   "_class": "symbolInstance",
-  "do_objectID": "5A8173F0-DC4E-4A0B-B715-E1C9F3EA8282",
+  "do_objectID": "C59E8DFD-C455-4D36-ACA7-C21FFE52FA3A",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -14,9 +14,9 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 36,
-    "width": 91,
-    "x": 491,
-    "y": 238
+    "width": 89,
+    "x": 487,
+    "y": 264
   },
   "horizontalSpacing": 0,
   "isFlippedHorizontal": false,
@@ -30,11 +30,6 @@
   "masterInfluenceEdgeMinYPadding": 0,
   "name": "Button/Small",
   "nameIsFixed": false,
-  "overrides": {
-    "52107159-4133-4C7B-A09E-FD9E417A51A1": {
-      "646B1714-A823-4A5F-A990-2B57F9E2EF90": "testing"
-    }
-  },
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
