@@ -142,7 +142,19 @@
     },
     {
       "class": "symbolMaster",
+      "id": "00686A17-2952-44AC-8371-E7E37E449C0A"
+    },
+    {
+      "class": "symbolMaster",
       "id": "27216B60-2CB3-4E3A-911C-6E40661B9258"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "78FDE99C-97DE-480C-9F08-04A99629DEB0"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "AC50AFD4-3BDE-4D6F-84BC-4B8C4089CCF2"
     }
   ],
   "name": "Symbols",

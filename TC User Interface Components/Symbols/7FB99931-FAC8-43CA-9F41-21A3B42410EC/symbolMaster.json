@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 11,
+  "changeIdentifier": 23,
   "do_objectID": "7FB99931-FAC8-43CA-9F41-21A3B42410EC",
   "exportOptions": {
     "_class": "exportOptions",
@@ -76,6 +76,9 @@
     "com.animaapp.stc-sketch-plugin": {
       "kModelPropertiesKey": {
       }
+    },
+    "com.invisionlabs.library": {
+      "version": 1
     }
   },
   "verticalRulerData": {
